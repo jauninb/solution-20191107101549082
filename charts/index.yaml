@@ -1,12 +1,21 @@
 apiVersion: v1
 entries:
+  catalog-api:
+  - apiVersion: v1
+    created: "2019-11-07T16:21:55.820988673Z"
+    description: A Helm chart for a Kubernetes app
+    digest: 3f2828a99be03af811f85f43f78a6cc65e62bf8d67f9de6312a51459bcb33836
+    name: catalog-api
+    urls:
+    - https://github.com/jauninb/solution-20191107101549082/raw/master/charts/catalog-api-1.0.7-issue-10902-3fe5678f-20191107160936.tgz
+    version: 1.0.7-issue-10902-3fe5678f-20191107160936
   ui:
   - apiVersion: v1
-    created: "2019-11-07T16:18:07.769056216Z"
+    created: "2019-11-07T16:21:55.82132417Z"
     description: A Helm chart for a Kubernetes app
     digest: 89b2d6a4338c47e6cb4238a9e67a980ea08574faf31042903afada6964d85376
     name: ui
     urls:
     - https://github.com/jauninb/solution-20191107101549082/raw/master/charts/ui-1.0.7-issue-10902-bd235a50-20191107160929.tgz
     version: 1.0.7-issue-10902-bd235a50-20191107160929
-generated: "2019-11-07T16:18:07.768468008Z"
+generated: "2019-11-07T16:21:55.820353383Z"
